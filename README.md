@@ -192,15 +192,15 @@ Gosto de construir APIs, explorar arquitetura de software e criar ferramentas qu
 
 ## Projetos
 
-### [auth-service](https://github.com/willkimen/auth-service)
+### [auth-service](https://github.com/willkimen/auth-service) (FASTAPI)
 
 Serviço de autenticação e gerenciamento de contas desenvolvido com FastAPI. Implementa cadastro, autenticação, verificação de email, recuperação e alteração de senha, alteração de email e gerenciamento de tokens. Utiliza Hexagonal Architecture, conceitos de DDD e Outbox Pattern.
 
-### [email-service](https://github.com/willkimen/email-service)
+### [email-service](https://github.com/willkimen/email-service) (GOLANG)
 
 Microserviço em Go responsável pelo processamento de emails transacionais. Utiliza processamento assíncrono com Asynq e Redis, integração com a API da Resend e arquitetura Hexagonal para separar o processamento da entrega dos emails.
 
-### [simple-authuser-api](https://github.com/willkimen/simple-authuser-api)
+### [simple-authuser-api](https://github.com/willkimen/simple-authuser-api) (DJANGO REST)
 
 Projeto de estudo desenvolvido com Django REST Framework para explorar a implementação de autenticação em APIs. Inclui fluxos de verificação de email, recuperação de senha, autenticação baseada em tokens e processamento assíncrono com Celery e Redis.
 
